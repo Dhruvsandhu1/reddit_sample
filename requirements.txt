@@ -1,0 +1,6 @@
+requests
+langchain
+streamlit
+ipykernel
+openai==0.28
+tiktoken
