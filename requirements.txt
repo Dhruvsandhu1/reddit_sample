@@ -4,3 +4,5 @@ streamlit
 ipykernel
 openai==0.28
 tiktoken
+langchain-community
+langchain-openai
