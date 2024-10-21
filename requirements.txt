@@ -5,3 +5,4 @@ ipykernel
 openai==0.28
 tiktoken==0.8
 langchain-core==0.3.12
+langchain_community
